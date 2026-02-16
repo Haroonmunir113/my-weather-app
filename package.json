@@ -16,7 +16,9 @@
     "@prisma/adapter-pg": "^7.3.0",
     "@prisma/client": "^7.3.0",
     "axios": "^1.13.4",
+    "bcryptjs": "^3.0.3",
     "dotenv": "^17.2.3",
+    "jsonwebtoken": "^9.0.3",
     "next": "16.1.6",
     "pg": "^8.18.0",
     "react": "19.2.3",
@@ -24,6 +26,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/jsonwebtoken": "^9.0.10",
     "@types/node": "^20",
     "@types/pg": "^8.16.0",
     "@types/react": "^19",
